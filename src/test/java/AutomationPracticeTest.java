@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertEquals;
 
-public class testAutomationPractice {
+public class AutomationPracticeTest {
     private WebDriver driver;
 
     @Before
